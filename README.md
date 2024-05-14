@@ -7,7 +7,7 @@ A **Front End Developer** from Ukraine with a year of experience in developing w
 <span>
   <img src="/images/react-dark.svg" width="48" title="React" alt="React" />
   <img src="/images/nextjs-dark.svg" width="48" title="Next.js" alt="Next.js" />
-  <img src="/images/typescript.js" width="48" title="TypeScript" alt="TypeScript" />
+  <img src="/images/typescript.svg" width="48" title="TypeScript" alt="TypeScript" />
   <img src="/images/redux.svg" width="48" title="Redux" alt="Redux" />
   <img src="/images/nodejs.svg" width="48" title="Node.js" alt="Node.js" />
 <!--   <img src="/images/jest.svg" width="48" title="Jest" alt="Jest" /> -->
