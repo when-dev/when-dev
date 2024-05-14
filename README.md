@@ -25,5 +25,5 @@ A **Front End Developer** from Ukraine with a year of experience in developing w
 <!-- - Reading: [Clean Code](https://a.co/d/7tClpTt) by Robert Martin -->
 
 - **Looking for a job as a front-end developer**
-- Learning: [Next.js, WebSockets]
-- Working on: [Dashboard]. A pet project to improve my soft skills and practice Next.js.
+- Learning: Next.js, WebSockets.
+- Working on: Dashboard. A pet project to improve my soft skills and practice Next.js.
