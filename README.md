@@ -13,7 +13,7 @@ A **Front End Developer** from Ukraine with a year of experience in developing w
 <!--   <img src="/images/jest.svg" width="48" title="Jest" alt="Jest" /> -->
   <img src="/images/github-dark.svg" width="48" title="Git" alt="Git" />
   <img src="/images/javascript.svg" width="48" title="JavaScript" alt="JavaScript" />
-  <img src="/images/materialui.svg" width="48" title="Material UI" alt="Material UI" />
+  <img src="/images/materialui-dark.svg" width="48" title="Material UI" alt="Material UI" />
   <img src="/images/tailwindcss-dark.svg" width="48" title="Tailwind" alt="Tailwind" />
   <img src="/images/sass.svg" width="48" title="SASS" alt="SASS" />
   <img src="/images/mongodb-dark.svg" width="48" title="MongoDB" alt="MongoDB" />
