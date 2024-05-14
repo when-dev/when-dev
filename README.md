@@ -18,5 +18,4 @@ A **Front End Developer** from Ukraine with a year of experience in developing w
   <img src="/images/sass.svg" width="48" title="SASS" alt="SASS" />
   <img src="/images/mongodb-dark.svg" width="48" title="MongoDB" alt="MongoDB" />
   <img src="/images/docker.svg" width="48" title="Docker" alt="Docker" />
-  <img src="/images/java-dark.svg" width="48" title="Java" alt="Java" />
 </span>
