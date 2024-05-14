@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Egor](https://www.linkedin.com/in/egor-gukov-24182127a/)
+# 👋 Hi there, I'm [Egor](https://www.linkedin.com/in/when-dev/)
 
 A **Front End Developer** from Ukraine with a year of experience in developing web applications using various tools, including:
 
