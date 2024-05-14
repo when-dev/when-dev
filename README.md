@@ -19,3 +19,11 @@ A **Front End Developer** from Ukraine with a year of experience in developing w
   <img src="/images/mongodb-dark.svg" width="48" title="MongoDB" alt="MongoDB" />
   <img src="/images/docker.svg" width="48" title="Docker" alt="Docker" />
 </span>
+
+## What I'm doing right now
+
+<!-- - Reading: [Clean Code](https://a.co/d/7tClpTt) by Robert Martin -->
+
+- **Looking for a job as a front-end developer**
+- Learning: [Next.js, WebSockets]
+- Working on: [Dashboard]. A pet project to improve my soft skills and practice Next.js.
