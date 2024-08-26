@@ -26,4 +26,4 @@ A **Front End Developer** from Ukraine with a year of experience in developing w
 
 - **Looking for a job as a front-end developer**
 - Learning: Express.js, Web Socket, SPA/MPA, CI/CD.
-- Working on: Dashboard. A pet project to improve my soft skills and practice Next.js.
+- Working on: Interactive Map. A pet project to improve my soft skills and practice Next.js.
