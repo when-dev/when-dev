@@ -24,6 +24,5 @@ A **Front End Developer** from Ukraine with a year of experience in developing w
 
 <!-- - Reading: [Clean Code](https://a.co/d/7tClpTt) by Robert Martin -->
 
-- **Looking for a job as a front-end developer**
-- Learning: Express.js, SPA/MPA, CI/CD.
-- Working on: Interactive Map. A pet project to improve my soft skills and practice Next.js.
+- **Looking for a job as a full-stack developer**
+- Learning: SPA/MPA, CI/CD.
