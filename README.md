@@ -25,4 +25,4 @@ A **Full-Stack Developer** from Ukraine with over a year of experience in buildi
 <!-- - Reading: [Clean Code](https://a.co/d/7tClpTt) by Robert Martin -->
 
 - **Looking for a job as a full-stack developer**
-- Learning: SPA/MPA, CI/CD.
+- Learning: SPA/MPA, CI/CD, AWS.
