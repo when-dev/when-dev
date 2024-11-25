@@ -26,3 +26,4 @@ A **Full-Stack Developer** from Ukraine with over a year of experience in buildi
 
 - **Looking for a job as a full-stack developer**
 - Learning: SPA/MPA, CI/CD, AWS.
+- Working on: Online Green Shop. A pet project to improve my full-stack skills 
