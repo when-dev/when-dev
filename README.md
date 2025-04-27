@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm [Egor](https://www.linkedin.com/in/when-dev/)
 
-A **Full-Stack Developer** from Ukraine with over a year of experience in building and maintaining web applications. Skilled in a variety of tools and technologies, including:
+A **Full-Stack Developer** from Ukraine with over two years of experience in creating and supporting web applications. Proficient in various tools and technologies, including:
 
 ## 💻 Skills
 
