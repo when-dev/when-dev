@@ -25,5 +25,5 @@ A **Full-Stack Developer** from Ukraine with over two years of experience in cre
 <!-- - Reading: [Clean Code](https://a.co/d/7tClpTt) by Robert Martin -->
 
 - **Looking for a job as a full-stack developer**
-- Learning: SPA/MPA, CI/CD, AWS.
+- Plans for study: AWS.
 - Working on: Online Ecommerce Shop. A pet project to improve and showcase my full-stack skills 
