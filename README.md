@@ -24,6 +24,6 @@ A **Front-End Developer** from Ukraine with over two years of experience in crea
 
 <!-- - Reading: [Clean Code](https://a.co/d/7tClpTt) by Robert Martin -->
 
-- **Looking for a job as a full-stack developer**
+- **Looking for a job as a front-end developer**
 - Plans for study: AWS.
 - Working on: Online Ecommerce Shop. A pet project to improve and showcase my full-stack skills 
