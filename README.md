@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm [Egor](https://www.linkedin.com/in/when-dev/)
 
-A **Front-End Developer** from Ukraine with over two years of experience in creating and supporting web applications. Proficient in various tools and technologies, including:
+A **Software Developer** from Ukraine with over two years of experience in creating and supporting web applications. Proficient in various tools and technologies, including:
 
 ## 💻 Skills
 
@@ -24,6 +24,6 @@ A **Front-End Developer** from Ukraine with over two years of experience in crea
 
 <!-- - Reading: [Clean Code](https://a.co/d/7tClpTt) by Robert Martin -->
 
-- **Looking for a job as a front-end developer**
+- **Looking for a job as a software developer**
 - Plans for study: AWS.
 - Working on: Online Ecommerce Shop. A pet project to improve and showcase my full-stack skills 
