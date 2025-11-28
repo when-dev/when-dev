@@ -26,4 +26,4 @@ A **Software Developer** from Ukraine with over two years of experience in creat
 
 - **Looking for a job as a software developer**
 - Plans for study: AWS.
-- Working on: Online Ecommerce Shop. A pet project to improve and showcase my full-stack skills 
+- Working on: Online Ecommerce Shop.  
