@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Egor](https://www.linkedin.com/in/when-dev/)
+# 👋 Hi there, I'm [Yehor](https://www.linkedin.com/in/when-dev/)
 
 A **Software Developer** with over two years of experience in creating and supporting web applications. Proficient in various tools and technologies, including:
 
