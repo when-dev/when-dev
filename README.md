@@ -25,4 +25,4 @@ A **Frontend Engineer** with over two years of experience in creating and suppor
 <!-- - Reading: [Clean Code](https://a.co/d/7tClpTt) by Robert Martin -->
 
 - **Looking for a job as a frontend engineer**
-- Working on: Own Projects.  
+- Working on: Video Editor.  
