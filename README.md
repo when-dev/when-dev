@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm [Yehor](https://www.linkedin.com/in/when-dev/)
 
-A **Software Developer** with over two years of experience in creating and supporting web applications. Proficient in various tools and technologies, including:
+A **Frontend Engineer** with over two years of experience in creating and supporting web applications. Proficient in various tools and technologies, including:
 
 ## 💻 Skills
 
@@ -24,5 +24,5 @@ A **Software Developer** with over two years of experience in creating and suppo
 
 <!-- - Reading: [Clean Code](https://a.co/d/7tClpTt) by Robert Martin -->
 
-- **Looking for a job as a software developer**
+- **Looking for a job as a frontend engineer**
 - Working on: Own Projects.  
