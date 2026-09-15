@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm [Yehor](https://www.linkedin.com/in/when-dev/)
 
-A **Frontend Engineer** with over two years of experience in creating and supporting web applications. Proficient in various tools and technologies, including:
+A **Frontend Engineer** with over three years of experience in creating and supporting web applications. Proficient in various tools and technologies, including:
 
 ## 💻 Skills
 
