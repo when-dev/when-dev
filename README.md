@@ -24,5 +24,5 @@ A **Frontend Engineer** with over 4 years of experience in creating and supporti
 
 <!-- - Reading: [Clean Code](https://a.co/d/7tClpTt) by Robert Martin -->
 
-- **Looking for a job as a frontend engineer**
+- **Looking for a job as a Software Engineer**
 - Working on: Video Editor.  
